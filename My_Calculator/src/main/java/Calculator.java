@@ -7,6 +7,7 @@ public class Calculator {
 		Subtraction s = new Subtraction();
 		a.sum(10,20);
 		s.sub(40,10);
+		System.out.println("hi sai");
 	}
 
 }
